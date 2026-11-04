@@ -113,6 +113,3 @@ All random seeds are fixed in the scripts.
 - **Results and figures** (`results/`, `figures/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - **Data**: not included; the original dataset is licensed CC BY-NC-ND 4.0 by its author (see *Data*).
 
-## Citation
-
-If you use this code, please cite the paper above. A Zenodo DOI for this repository will be added here.
